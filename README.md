@@ -14,7 +14,7 @@
 <!-- Table of Contents -->
 ## Table of Contents
 - [Introduction](#introduction)
-- [Prompts](#prompts)
+- [Offical Prompts](#prompts)
   - [Prompt 1: Game Board](#prompt-1-game-board)
   - [Prompt 2: Reset Button](#prompt-2-reset-button)
   - [Prompts 3 & 4: Cell Size](#prompts-3--4-cell-size)
@@ -29,63 +29,73 @@
 Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's prompting. This project delivers an immersive and enjoyable gaming experience with features including a dynamic game board, reset functionality, visually appealing cell design, informative pop-up messages, and both two-player and single-player modes.
 
 <!-- Prompts -->
-## Prompts
+## Official Prompts
 
 ### Prompt 1: Game Board
 <details>
 <summary>Details</summary>
 
-- Create a web-based Tic-Tac-Toe game with a dynamically generated 3x3 game board.
-- The game board should have gray backgrounds for each cell and black grid lines to separate them.
-- Center the entire game board on the screen using the flexbox layout.
-- Two players, X and O, take turns marking empty cells.
-- Winning conditions:
-  - Three in a row horizontally.
-  - Three in a row vertically.
-  - Three in a row diagonally from top-left to bottom-right.
-  - Three in a row diagonally from top-right to bottom-left.
-- In case of a draw, check for a win.
-- Separate the game into HTML, CSS, and JavaScript files following the Separation of Concerns (SoC) principle.
+> Build a tic tac toe web application using HTML, CSS, and Javascript. It will have the following: 
+> **Game Board:**
+> - Responsive and dynamic 3x3 grid with gray backgrounds for cells and black grid lines.
+> - Centered on the screen using a flexbox layout.
+>
+> **Player Mechanics:**
+> - Two players, X and O, take turns making moves by clicking on empty cells.
+> - Winning conditions:
+>   - Three in a row horizontally.
+>   - Three in a row vertically.
+>   - Three in a row diagonally from top-left to bottom-right.
+>   - Three in a row diagonally from top-right to bottom-left.
+> - Automatic win-check after each move.
+> - Draw detection when the board is full and no winner is declared.
+>
+> **Leaderboard:**
+> - Located above the game board.
+> - Displays wins for each player in the format: "X - # || O - #".
+>
+> - Separate the game into HTML, CSS, and JavaScript files following the Separation of Concerns (SoC) principle.
 </details>
 
 ### Prompt 2: Reset Button
 <details>
 <summary>Details</summary>
 
-- Add a button to reset the game.
+> Add a button to reset the game.
 </details>
 
 ### Prompts 3 & 4: Cell Size
 <details>
 <summary>Details</summary>
 
-- Ensure cells have fixed height and width, maintaining their size when marked.
+> Ensure cells have fixed height and width, maintaining their size when marked.
 </details>
 
 ### Prompts 5 & 6: Pop-up Messages
 <details>
 <summary>Details</summary>
 
-- Display a pop-up message in the browser when a player wins or when there is a draw.
+> Display a pop-up message in the browser when a player wins or when there is a draw.
 </details>
 
 ### Prompt 7: Multiplayer Modes
 <details>
 <summary>Details</summary>
 
-#### Option 1: Two-Player Mode
-- Two players can compete, one as X and the other as O.
-- Track wins on a leaderboard.
-- Continue playing indefinitely unless choosing to switch to Option 2.
-- In the case of a draw, award one point to the 'Draw' category on the leaderboard.
-
-#### Option 2: Single-Player Mode
-- Players can choose this mode to compete against the computer.
-- The leaderboard displays wins for the player and the computer.
-- The computer makes random moves after the player.
-- One point is awarded for achieving three in a row before the computer or vice versa.
-- In the case of a draw, one point is awarded to the 'Draw' category on the leaderboard.
-- A pop-up message indicates the winner or a draw.
+> In addition to the current code, can you add two game modes as follows:
+> #### Option 1: Two-Player Mode
+> - Two players can compete, one as X and the other as O.
+> - Track wins on a leaderboard.
+> - Continue playing indefinitely unless choosing to switch to Option 2.
+> - In the case of a draw, award one point to the 'Draw' category on the leaderboard.
+>
+> #### Option 2: Single-Player Mode
+> - Players can choose this mode to compete against the computer.
+> - The leaderboard displays wins for the player and the computer.
+> - The computer makes random moves after the player.
+> - One point is awarded for achieving three in a row before the computer or vice versa.
+> - In the case of a draw, one point is awarded to the 'Draw' category on the leaderboard.
+> - A pop-up message indicates the winner or a draw.
 
 **Feel free to check the HTML, CSS, and JavaScript files for the updated code to support these functionalities.**
 </details>
