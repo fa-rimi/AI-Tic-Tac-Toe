@@ -14,6 +14,7 @@
 <!-- Table of Contents -->
 ## Table of Contents
 - [Introduction](#introduction)
+- [Trial Prompts](#trial)
 - [Offical Prompts](#prompts)
   - [Prompt 1: Game Board](#prompt-1-game-board)
   - [Prompt 2: Reset Button](#prompt-2-reset-button)
@@ -27,6 +28,14 @@
 ## Introduction
 
 Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's prompting. This project delivers an immersive and enjoyable gaming experience with features including a dynamic game board, reset functionality, visually appealing cell design, informative pop-up messages, and both two-player and single-player modes.
+
+## Trial Prompts
+#### Create a tic-tac-toe web game application for me with a leaderboard.
+- This question was very broad but as a result the response was a general outline of what the application should look like with basic code
+
+
+#### Build me a front-end tic-tac-toe web application with a leaderboard
+- Similar to the first question, the response was a general outline with basic code
 
 <!-- Prompts -->
 ## Official Prompts
