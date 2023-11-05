@@ -33,10 +33,11 @@ Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's pro
 ## Trial Prompts
 #### Create a tic-tac-toe web game application for me with a leaderboard.
 - This question was very broad but as a result the response was a general outline of what the application should look like with basic code
-- 
+- https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/11ba874a-a278-493c-b5d1-440735cca5e4
 
 #### Build me a front-end tic-tac-toe web application with a leaderboard
 - Similar to the first question, the response was a general outline with basic code
+- https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/ec2f6c24-5cbf-4c55-a049-8bf5792f006b
 
 <!-- Prompts -->
 ## Official Prompts
@@ -123,16 +124,15 @@ To play the game and explore its features, follow these steps:
 
 - In single-player game mode, when the game ends in a draw, the draw announcement does not pop up, and a point is not added to the draw category. This issue is currently under investigation and will be resolved in a future update.
 
-- <img width="1404" alt="Screenshot 2023-11-04 at 2 23 10 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/2bf6bab2-0dfa-4a6b-8190-65f8d2c20ec5"><img width="1288" alt="Screenshot 2023-11-04 at 2 23 27 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/3aa57c42-7266-4e8b-ba78-c15f97f2f34c"><img width="300" alt="Screenshot 2023-11-04 at 2 23 52 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/c6ac84fd-748e-4365-94f7-434bff3f9271">
+- <img width="1288" alt="Screenshot 2023-11-04 at 2 23 27 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/3aa57c42-7266-4e8b-ba78-c15f97f2f34c"><img width="300" alt="Screenshot 2023-11-04 at 2 23 52 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/c6ac84fd-748e-4365-94f7-434bff3f9271">
 
-https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/11ba874a-a278-493c-b5d1-440735cca5e4
+<img width="564" alt="Screenshot 2023-11-05 at 12 53 14 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/5926c851-25e7-4866-ae97-abf98b4395a7">
 
 
 
 https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/1f80b64b-06e9-46da-bffd-fdd7b0423ee2
 
 
-https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/ec2f6c24-5cbf-4c55-a049-8bf5792f006b
 
 
 
