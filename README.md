@@ -66,6 +66,9 @@ Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's pro
 > - Displays wins for each player in the format: "X - # || O - #".
 >
 > - Separate the game into HTML, CSS, and JavaScript files following the Separation of Concerns (SoC) principle.
+>
+> - https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/1f80b64b-06e9-46da-bffd-fdd7b0423ee2
+
 </details>
 
 ### Prompt 2: Reset Button
@@ -108,7 +111,6 @@ Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's pro
 > - In the case of a draw, one point is awarded to the 'Draw' category on the leaderboard.
 > - A pop-up message indicates the winner or a draw.
 
-**Feel free to check the HTML, CSS, and JavaScript files for the updated code to support these functionalities.**
 </details>
 
 <!-- Get Started -->
@@ -123,17 +125,6 @@ To play the game and explore its features, follow these steps:
 ## Known Issues
 
 - In single-player game mode, when the game ends in a draw, the draw announcement does not pop up, and a point is not added to the draw category. This issue is currently under investigation and will be resolved in a future update.
-
-- <img width="1288" alt="Screenshot 2023-11-04 at 2 23 27 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/3aa57c42-7266-4e8b-ba78-c15f97f2f34c"><img width="300" alt="Screenshot 2023-11-04 at 2 23 52 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/c6ac84fd-748e-4365-94f7-434bff3f9271">
-
-<img width="564" alt="Screenshot 2023-11-05 at 12 53 14 PM" src="https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/5926c851-25e7-4866-ae97-abf98b4395a7">
-
-
-
-https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/1f80b64b-06e9-46da-bffd-fdd7b0423ee2
-
-
-
 
 
 
