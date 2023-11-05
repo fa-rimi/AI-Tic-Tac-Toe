@@ -11,10 +11,19 @@ body {
     text-align: center;
 }
 
+.mode {
+    margin: 10px 0;
+}
+
+.mode button {
+    font-size: 1rem;
+    margin: 5px;
+    padding: 5px 10px;
+}
+
 .board {
     display: grid;
     grid-template-columns: repeat(3, 100px);
-    grid-template-rows: repeat(3, 100px); /* Add rows to ensure fixed height */
     gap: 2px;
     background-color: gray;
     border: 2px solid black;
@@ -30,10 +39,9 @@ body {
     font-size: 2rem;
     cursor: pointer;
     border: 1px solid black;
-    width: 100px; /* Add a fixed width for each cell */
-    height: 100px; /* Add a fixed height for each cell */
+    width: 100px;
+    height: 100px;
 }
-
 
 .status {
     margin: 10px 0;
