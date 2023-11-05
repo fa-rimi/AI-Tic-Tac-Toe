@@ -33,11 +33,11 @@ Welcome to our Tic Tac Toe game, a web-based application powered by OpenAI's pro
 ## Trial Prompts
 #### Create a tic-tac-toe web game application for me with a leaderboard.
 - This question was very broad but as a result the response was a general outline of what the application should look like with basic code
-- https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/11ba874a-a278-493c-b5d1-440735cca5e4
+  https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/11ba874a-a278-493c-b5d1-440735cca5e4
 
 #### Build me a front-end tic-tac-toe web application with a leaderboard
 - Similar to the first question, the response was a general outline with basic code
-- https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/ec2f6c24-5cbf-4c55-a049-8bf5792f006b
+  https://github.com/fa-rimi/AI-Tic-Tac-Toe/assets/109316364/ec2f6c24-5cbf-4c55-a049-8bf5792f006b
 
 <!-- Prompts -->
 ## Official Prompts
